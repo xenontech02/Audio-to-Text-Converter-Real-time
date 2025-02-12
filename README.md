@@ -1,6 +1,5 @@
-# Audio-to-Text-Converter-Real-time
-
-This project is an Audio to Text Converter that captures audio from the microphone, converts it to text using Google Speech Recognition, and visualizes the audio signal and its frequency spectrum in real-time.
+# Audio-to-Text-Converter-Real-time 
+This project is an Audio to Text Converter (CMP09303) that captures audio from the microphone, converts it to text using Google Speech Recognition, and visualizes the audio signal and its frequency spectrum in real-time.
 
 ## Features
 
